@@ -689,6 +689,11 @@ the Google homepage. Scripts can cause additional network requests to be
 performed, as well as modify the page or its layout, causing another round of
 page rendering and painting.
 
+Database
+Management of Database Data The database management system (DBMS), as we previously discussed, is a software that enables interaction with databases — organized collections of structured data stored in computer systems — to design, manipulate, retrieve, and manage the data in response to requests. In this case, the database will provide the user with any information he requests from google.com and preserve any information, such as account creation information.
+
+When you type https://www.google.com in your browser and hit Enter, the webserver answers back to the user or client once the request has been completed.
+
 .. _`Creative Commons Zero`: https://creativecommons.org/publicdomain/zero/1.0/
 .. _`"CSS lexical and syntax grammar"`: http://www.w3.org/TR/CSS2/grammar.html
 .. _`Punycode`: https://en.wikipedia.org/wiki/Punycode
